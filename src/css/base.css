@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+.blog-post {
+  width: 80%;
+  border: 1px solid grey;
+  border-radius: 15%;
+  background-color: rgb(161, 147, 147);
+  margin: 15px auto;
+}
