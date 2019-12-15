@@ -2,6 +2,7 @@
 title: Why did we build React?
 author: [petehunt]
 date: "2019-12-18T23:19:51.246Z"
+slug: test-blog
 ---
 
 There are a lot of JavaScript MVC frameworks out there. Why did we build React

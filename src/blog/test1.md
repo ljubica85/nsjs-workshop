@@ -2,6 +2,7 @@
 title: Why build?
 author: [kobajagi]
 date: "2019-09-18T23:19:51.246Z"
+slug: tes-blog-2
 ---
 
 There are a lot of JavaScript MVC frameworks out there. Why did we build React
